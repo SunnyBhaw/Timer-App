@@ -38,10 +38,3 @@ Features customizable durations, start/pause/reset controls, notifications and a
 | **Build Tool** | React Scripts |
 | **Deployment** | GitHub Pages |
 | **Notifications** | Browser Notification API |
-
-
-# Install dependencies
-npm install
-
-# Start development server
-npm start
